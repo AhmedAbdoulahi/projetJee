@@ -1,4 +1,4 @@
-# Projet CRUD Web avec JEE( Basculez sur la branch master)
+# Projet CRUD Web avec JEE
 
 Ce projet est une application web de type CRUD (Create, Read, Update, Delete) développée en utilisant Java Enterprise Edition (JEE) et Maven pour la gestion des dépendances.
 
