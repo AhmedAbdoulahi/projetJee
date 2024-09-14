@@ -36,7 +36,8 @@ Ce projet est une application web de type CRUD (Create, Read, Update, Delete) d�
 2. Accédez au répertoire du projet :
 
   ```bash
-  cd <nom-du-repertoire-du-projet>
+  cd <nom-du-repertoire-du-projet>```
+
 
 3. Configurez la connexion à la base de données dans le fichier persistence.xml, situé dans src/main/resources/META-INF/, pour y inclure vos informations de base de données (URL, utilisateur, mot de passe).
 
