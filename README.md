@@ -38,7 +38,6 @@ Ce projet est une application web de type CRUD (Create, Read, Update, Delete) d�
    ```
    cd <nom-du-repertoire-du-projet>
    mvn clean package
-
-
 3. Configurez la connexion à la base de données dans le fichier persistence.xml, situé dans src/main/resources/META-INF/, pour y inclure vos informations de base de données (URL, utilisateur, mot de passe).
+4. Démarrez le serveur(run button)
 
